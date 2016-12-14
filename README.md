@@ -1,2 +1,0 @@
-# frontEndMinimal
-Stanimir
